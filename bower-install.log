@@ -1,0 +1,998 @@
+bower stacky#^1.3.0                                validate 1.3.2 against https://github.com/PolymerLabs/stacky.git#^1.3.0
+bower test-fixture#^3.0.0                        not-cached https://github.com/PolymerElements/test-fixture.git#^3.0.0
+bower test-fixture#^3.0.0                           resolve https://github.com/PolymerElements/test-fixture.git#^3.0.0
+bower iron-autogrow-textarea#^1.0.0                download https://github.com/PolymerElements/iron-autogrow-textarea/archive/v1.0.15.tar.gz
+bower iron-a11y-announcer#^1.0.0                    extract archive.tar.gz
+bower iron-behaviors#^1.0.0                        download https://github.com/PolymerElements/iron-behaviors/archive/v1.0.18.tar.gz
+bower iron-a11y-announcer#^1.0.0                   resolved https://github.com/PolymerElements/iron-a11y-announcer.git#1.0.6
+bower accessibility-developer-tools#^2.10.0          cached https://github.com/GoogleChrome/accessibility-developer-tools.git#2.12.0
+bower accessibility-developer-tools#^2.10.0        validate 2.12.0 against https://github.com/GoogleChrome/accessibility-developer-tools.git#^2.10.0
+bower iron-a11y-keys-behavior#^1.0.0                extract archive.tar.gz
+bower iron-a11y-keys-behavior#^1.0.0               resolved https://github.com/PolymerElements/iron-a11y-keys-behavior.git#1.1.9
+bower iron-ajax#^1.0.0                              extract archive.tar.gz
+bower iron-ajax#^1.0.0                             resolved https://github.com/PolymerElements/iron-ajax.git#1.4.4
+bower iron-behaviors#^1.0.0                         extract archive.tar.gz
+bower iron-autogrow-textarea#^1.0.0                 extract archive.tar.gz
+bower iron-behaviors#^1.0.0                    invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\a0fbc0265707e4300e9778ed1e691132-10796-c02b8Q\bower.json
+bower iron-behaviors#^1.0.0                    invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["iron-button-state.html","iron-control-state.html"]
+bower iron-checked-element-behavior#^1.0.0         download https://github.com/PolymerElements/iron-checked-element-behavior/archive/v1.0.6.tar.gz
+bower iron-behaviors#^1.0.0                        resolved https://github.com/PolymerElements/iron-behaviors.git#1.0.18
+bower iron-autogrow-textarea#^1.0.0                resolved https://github.com/PolymerElements/iron-autogrow-textarea.git#1.0.15
+bower iron-collapse#^1.0.0                         download https://github.com/PolymerElements/iron-collapse/archive/v1.3.0.tar.gz
+bower iron-checked-element-behavior#^1.0.0          extract archive.tar.gz
+bower iron-doc-viewer#^1.0.0                       download https://github.com/PolymerElements/iron-doc-viewer/archive/v1.1.0.tar.gz
+bower iron-demo-helpers#^1.0.0                     download https://github.com/PolymerElements/iron-demo-helpers/archive/v1.2.6.tar.gz
+bower iron-checked-element-behavior#^1.0.0         resolved https://github.com/PolymerElements/iron-checked-element-behavior.git#1.0.6
+bower iron-component-page#^1.0.0                   download https://github.com/PolymerElements/iron-component-page/archive/v1.1.9.tar.gz
+bower iron-collapse#^1.0.0                          extract archive.tar.gz
+bower iron-collapse#^1.0.0                         resolved https://github.com/PolymerElements/iron-collapse.git#1.3.0
+bower iron-fit-behavior#^1.0.0                     download https://github.com/PolymerElements/iron-fit-behavior/archive/v1.2.7.tar.gz
+bower iron-dropdown#^1.0.0                         download https://github.com/PolymerElements/iron-dropdown/archive/v1.5.6.tar.gz
+bower iron-doc-viewer#^1.0.0                        extract archive.tar.gz
+bower iron-demo-helpers#^1.0.0                      extract archive.tar.gz
+bower iron-demo-helpers#^1.0.0                 invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\9ca825be821159b904dad659fb22351a-10796-oGlmOx\bower.json
+bower iron-demo-helpers#^1.0.0                 invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["demo-snippet.html","url-bar.html"]
+bower iron-demo-helpers#^1.0.0                     resolved https://github.com/PolymerElements/iron-demo-helpers.git#1.2.6
+bower marked-element#^1.0.0                      not-cached https://github.com/polymerelements/marked-element.git#^1.0.0
+bower marked-element#^1.0.0                         resolve https://github.com/polymerelements/marked-element.git#^1.0.0
+bower prism-element#^1.1.0                       not-cached https://github.com/PolymerElements/prism-element.git#^1.1.0
+bower prism-element#^1.1.0                          resolve https://github.com/PolymerElements/prism-element.git#^1.1.0
+bower iron-component-page#^1.0.0                    extract archive.tar.gz
+bower iron-doc-viewer#^1.0.0                       resolved https://github.com/PolymerElements/iron-doc-viewer.git#1.1.0
+bower iron-component-page#^1.0.0                   resolved https://github.com/PolymerElements/iron-component-page.git#1.1.9
+bower hydrolysis#^1.18                           not-cached https://github.com/Polymer/hydrolysis.git#^1.18
+bower hydrolysis#^1.18                              resolve https://github.com/Polymer/hydrolysis.git#^1.18
+bower iron-fit-behavior#^1.0.0                      extract archive.tar.gz
+bower iron-flex-layout#^1.0.0                      download https://github.com/PolymerElements/iron-flex-layout/archive/v1.3.9.tar.gz
+bower iron-fit-behavior#^1.0.0                     resolved https://github.com/PolymerElements/iron-fit-behavior.git#1.2.7
+bower iron-form-element-behavior#^1.0.0            download https://github.com/PolymerElements/iron-form-element-behavior/archive/v1.0.7.tar.gz
+bower iron-form#^1.0.0                             download https://github.com/PolymerElements/iron-form/archive/v1.1.6.tar.gz
+bower iron-dropdown#^1.0.0                          extract archive.tar.gz
+bower iron-dropdown#^1.0.0                         resolved https://github.com/PolymerElements/iron-dropdown.git#1.5.6
+bower iron-icon#^1.0.0                             download https://github.com/PolymerElements/iron-icon/archive/v1.0.13.tar.gz
+bower iron-iconset#^1.0.0                          download https://github.com/PolymerElements/iron-iconset/archive/v1.0.6.tar.gz
+bower iron-form-element-behavior#^1.0.0             extract archive.tar.gz
+bower iron-form-element-behavior#^1.0.0            resolved https://github.com/PolymerElements/iron-form-element-behavior.git#1.0.7
+bower iron-flex-layout#^1.0.0                       extract archive.tar.gz
+bower iron-iconset-svg#^1.0.0                      download https://github.com/PolymerElements/iron-iconset-svg/archive/v1.1.2.tar.gz
+bower iron-flex-layout#^1.0.0                      mismatch Version declared in the json (1.3.8) is different than the resolved one (1.3.9)
+bower iron-flex-layout#^1.0.0                      resolved https://github.com/PolymerElements/iron-flex-layout.git#1.3.9
+bower iron-form#^1.0.0                              extract archive.tar.gz
+bower iron-form#^1.0.0                             mismatch Version declared in the json (1.1.5) is different than the resolved one (1.1.6)
+bower iron-form#^1.0.0                             resolved https://github.com/PolymerElements/iron-form.git#1.1.6
+bower iron-icons#^1.0.0                            download https://github.com/PolymerElements/iron-icons/archive/v1.2.1.tar.gz
+bower iron-icon#^1.0.0                              extract archive.tar.gz
+bower iron-image#^1.0.0                            download https://github.com/PolymerElements/iron-image/archive/v1.2.6.tar.gz
+bower iron-icon#^1.0.0                             resolved https://github.com/PolymerElements/iron-icon.git#1.0.13
+bower iron-jsonp-library#^1.0.0                    download https://github.com/PolymerElements/iron-jsonp-library/archive/v1.0.5.tar.gz
+bower iron-iconset-svg#^1.0.0                       extract archive.tar.gz
+bower iron-iconset-svg#^1.0.0                      resolved https://github.com/PolymerElements/iron-iconset-svg.git#1.1.2
+bower iron-list#^1.0.0                             download https://github.com/PolymerElements/iron-list/archive/v1.4.6.tar.gz
+bower iron-localstorage#^1.0.0                     download https://github.com/PolymerElements/iron-localstorage/archive/v1.0.6.tar.gz
+bower iron-iconset#^1.0.0                           extract archive.tar.gz
+bower iron-iconset#^1.0.0                          resolved https://github.com/PolymerElements/iron-iconset.git#1.0.6
+bower iron-jsonp-library#^1.0.0                     extract archive.tar.gz
+bower iron-image#^1.0.0                             extract archive.tar.gz
+bower iron-image#^1.0.0                            resolved https://github.com/PolymerElements/iron-image.git#1.2.6
+bower iron-jsonp-library#^1.0.0                    resolved https://github.com/PolymerElements/iron-jsonp-library.git#1.0.5
+bower iron-location#^0.8.0                         download https://github.com/PolymerElements/iron-location/archive/v0.8.11.tar.gz
+bower iron-input#^1.0.0                            download https://github.com/PolymerElements/iron-input/archive/v1.0.11.tar.gz
+bower iron-media-query#^1.0.0                      download https://github.com/PolymerElements/iron-media-query/archive/v1.0.8.tar.gz
+bower iron-icons#^1.0.0                             extract archive.tar.gz
+bower iron-icons#^1.0.0                            resolved https://github.com/PolymerElements/iron-icons.git#1.2.1
+bower iron-localstorage#^1.0.0                      extract archive.tar.gz
+bower iron-menu-behavior#^1.0.0                    download https://github.com/PolymerElements/iron-menu-behavior/archive/v1.3.1.tar.gz
+bower iron-label#^1.0.0                            download https://github.com/PolymerElements/iron-label/archive/v1.0.2.tar.gz
+bower iron-localstorage#^1.0.0                     resolved https://github.com/PolymerElements/iron-localstorage.git#1.0.6
+bower iron-media-query#^1.0.0                       extract archive.tar.gz
+bower iron-location#^0.8.0                          extract archive.tar.gz
+bower iron-media-query#^1.0.0                      resolved https://github.com/PolymerElements/iron-media-query.git#1.0.8
+bower iron-location#^0.8.0                     invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\55863583333219e3aeaa111e082667ff-10796-rcTa5F\bower.json
+bower iron-location#^0.8.0                     invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["iron-location.html","iron-query-params.html"]
+bower iron-location#^0.8.0                         resolved https://github.com/PolymerElements/iron-location.git#0.8.11
+bower iron-meta#^1.0.0                             download https://github.com/PolymerElements/iron-meta/archive/v1.1.3.tar.gz
+bower iron-pages#^1.0.0                            download https://github.com/PolymerElements/iron-pages/archive/v1.0.9.tar.gz
+bower iron-input#^1.0.0                             extract archive.tar.gz
+bower iron-overlay-behavior#^1.0.0                 download https://github.com/PolymerElements/iron-overlay-behavior/archive/v1.10.4.tar.gz
+bower iron-input#^1.0.0                            resolved https://github.com/PolymerElements/iron-input.git#1.0.11
+bower iron-menu-behavior#^1.0.0                     extract archive.tar.gz
+bower iron-menu-behavior#^1.0.0                invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\638b0a4714058594ec5e3aa2c3578dcc-10796-qBxZhC\bower.json
+bower iron-menu-behavior#^1.0.0                invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["iron-menu-behavior.html","iron-menubar-behavior.html"]
+bower iron-label#^1.0.0                             extract archive.tar.gz
+bower iron-menu-behavior#^1.0.0                    resolved https://github.com/PolymerElements/iron-menu-behavior.git#1.3.1
+bower iron-label#^1.0.0                            resolved https://github.com/PolymerElements/iron-label.git#1.0.2
+bower iron-selector#^1.0.0                         download https://github.com/PolymerElements/iron-selector/archive/v1.5.3.tar.gz
+bower iron-resizable-behavior#^1.0.0               download https://github.com/PolymerElements/iron-resizable-behavior/archive/v1.0.6.tar.gz
+bower iron-meta#^1.0.0                              extract archive.tar.gz
+bower iron-meta#^1.0.0                             resolved https://github.com/PolymerElements/iron-meta.git#1.1.3
+bower iron-pages#^1.0.0                             extract archive.tar.gz
+bower iron-pages#^1.0.0                            resolved https://github.com/PolymerElements/iron-pages.git#1.0.9
+bower iron-scroll-target-behavior#^1.0.0           download https://github.com/PolymerElements/iron-scroll-target-behavior/archive/v1.1.1.tar.gz
+bower iron-swipeable-container#^1.0.0              download https://github.com/PolymerElements/iron-swipeable-container/archive/v1.0.3.tar.gz
+bower iron-overlay-behavior#^1.0.0                  extract archive.tar.gz
+bower iron-scroll-threshold#^1.0.0                 download https://github.com/PolymerElements/iron-scroll-threshold/archive/v1.0.3.tar.gz
+bower iron-overlay-behavior#^1.0.0                 resolved https://github.com/PolymerElements/iron-overlay-behavior.git#1.10.4
+bower iron-selector#^1.0.0                          extract archive.tar.gz
+bower iron-signals#^1.0.0                          download https://github.com/PolymerElements/iron-signals/archive/v1.0.3.tar.gz
+bower iron-resizable-behavior#^1.0.0                extract archive.tar.gz
+bower iron-selector#^1.0.0                     invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\2b5cad026ffbe623c5e102d04a5482a1-10796-PGHJgE\bower.json
+bower iron-selector#^1.0.0                     invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["iron-selector.html","iron-multi-selectable.html","iron-selectable.html","iron-selection.html"]
+bower iron-selector#^1.0.0                         resolved https://github.com/PolymerElements/iron-selector.git#1.5.3
+bower iron-resizable-behavior#^1.0.0               resolved https://github.com/PolymerElements/iron-resizable-behavior.git#1.0.6
+bower iron-validatable-behavior#^1.0.0             download https://github.com/PolymerElements/iron-validatable-behavior/archive/v1.1.2.tar.gz
+bower iron-swipeable-container#^1.0.0               extract archive.tar.gz
+bower iron-swipeable-container#^1.0.0              resolved https://github.com/PolymerElements/iron-swipeable-container.git#1.0.3
+bower iron-scroll-threshold#^1.0.0                  extract archive.tar.gz
+bower iron-scroll-threshold#^1.0.0                 resolved https://github.com/PolymerElements/iron-scroll-threshold.git#1.0.3
+bower iron-validator-behavior#^1.0.0               download https://github.com/PolymerElements/iron-validator-behavior/archive/v1.0.2.tar.gz
+bower iron-test-helpers#^1.0.0                     download https://github.com/PolymerElements/iron-test-helpers/archive/v1.4.1.tar.gz
+bower iron-range-behavior#^1.0.0                   download https://github.com/PolymerElements/iron-range-behavior/archive/v1.0.7.tar.gz
+bower iron-scroll-target-behavior#^1.0.0            extract archive.tar.gz
+bower iron-scroll-target-behavior#^1.0.0           resolved https://github.com/PolymerElements/iron-scroll-target-behavior.git#1.1.1
+bower paper-badge#^1.0.0                           download https://github.com/PolymerElements/paper-badge/archive/v1.1.4.tar.gz
+bower neon-animation#^1.0.0                        download https://github.com/PolymerElements/neon-animation/archive/v1.2.5.tar.gz
+bower iron-signals#^1.0.0                           extract archive.tar.gz
+bower iron-signals#^1.0.0                          resolved https://github.com/PolymerElements/iron-signals.git#1.0.3
+bower iron-list#^1.0.0                              extract archive.tar.gz
+bower paper-behaviors#^1.0.0                       download https://github.com/PolymerElements/paper-behaviors/archive/v1.0.13.tar.gz
+bower paper-card#^1.0.0                            download https://github.com/PolymerElements/paper-card/archive/v1.1.6.tar.gz
+bower paper-button#^1.0.0                          download https://github.com/PolymerElements/paper-button/archive/v1.0.15.tar.gz
+bower iron-list#^1.0.0                             resolved https://github.com/PolymerElements/iron-list.git#1.4.6
+bower paper-badge#^1.0.0                            extract archive.tar.gz
+bower paper-badge#^1.0.0                           resolved https://github.com/PolymerElements/paper-badge.git#1.1.4
+bower paper-dialog-behavior#^1.0.0                 download https://github.com/PolymerElements/paper-dialog-behavior/archive/v1.2.9.tar.gz
+bower iron-validatable-behavior#^1.0.0              extract archive.tar.gz
+bower iron-range-behavior#^1.0.0                    extract archive.tar.gz
+bower paper-checkbox#^1.0.0                        download https://github.com/PolymerElements/paper-checkbox/archive/v1.4.2.tar.gz
+bower iron-validator-behavior#^1.0.0                extract archive.tar.gz
+bower iron-test-helpers#^1.0.0                      extract archive.tar.gz
+bower neon-animation#^1.0.0                         extract archive.tar.gz
+bower iron-range-behavior#^1.0.0                   resolved https://github.com/PolymerElements/iron-range-behavior.git#1.0.7
+bower iron-validatable-behavior#^1.0.0             resolved https://github.com/PolymerElements/iron-validatable-behavior.git#1.1.2
+bower iron-validator-behavior#^1.0.0               resolved https://github.com/PolymerElements/iron-validator-behavior.git#1.0.2
+bower iron-test-helpers#^1.0.0                     resolved https://github.com/PolymerElements/iron-test-helpers.git#1.4.1
+bower neon-animation#^1.0.0                    invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\2cf7b7b37674d1417cf98342d6ef47f7-10796-YnlA5c\bower.json
+bower neon-animation#^1.0.0                    invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["neon-animated-pages.html","neon-animatable-behavior.html","neon-animation-behavior.html","neon-animation-runner-behavior.html","neon-shared-element-animatable-behavior.html","neon-shared-element-animation-behavior.html","neon-animatable.html","neon-animations.html"]
+bower neon-animation#^1.0.0                        resolved https://github.com/PolymerElements/neon-animation.git#1.2.5
+bower web-animations-js#^2.2.0                   not-cached https://github.com/web-animations/web-animations-js.git#^2.2.0
+bower web-animations-js#^2.2.0                      resolve https://github.com/web-animations/web-animations-js.git#^2.2.0
+bower paper-behaviors#^1.0.0                        extract archive.tar.gz
+bower paper-button#^1.0.0                           extract archive.tar.gz
+bower paper-behaviors#^1.0.0                   invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\476b583871c2ccef5587127f5eabb4de-10796-ogV9dE\bower.json
+bower paper-behaviors#^1.0.0                   invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["paper-button-behavior.html","paper-checked-element-behavior.html","paper-inky-focus-behavior.html"]
+bower paper-behaviors#^1.0.0                       resolved https://github.com/PolymerElements/paper-behaviors.git#1.0.13
+bower paper-button#^1.0.0                          resolved https://github.com/PolymerElements/paper-button.git#1.0.15
+bower paper-dialog#^1.0.0                          download https://github.com/PolymerElements/paper-dialog/archive/v1.1.0.tar.gz
+bower paper-dialog-behavior#^1.0.0                  extract archive.tar.gz
+bower paper-drawer-panel#^1.0.0                    download https://github.com/PolymerElements/paper-drawer-panel/archive/v1.0.11.tar.gz
+bower paper-dialog-behavior#^1.0.0                 resolved https://github.com/PolymerElements/paper-dialog-behavior.git#1.2.9
+bower paper-checkbox#^1.0.0                         extract archive.tar.gz
+bower paper-checkbox#^1.0.0                        resolved https://github.com/PolymerElements/paper-checkbox.git#1.4.2
+bower paper-dialog-scrollable#^1.0.0               download https://github.com/PolymerElements/paper-dialog-scrollable/archive/1.1.5.tar.gz
+bower paper-fab#^1.0.0                             download https://github.com/PolymerElements/paper-fab/archive/v1.2.2.tar.gz
+bower paper-dropdown-menu#^1.0.0                   download https://github.com/PolymerElements/paper-dropdown-menu/archive/v1.5.1.tar.gz
+bower paper-dialog#^1.0.0                           extract archive.tar.gz
+bower paper-dialog#^1.0.0                          resolved https://github.com/PolymerElements/paper-dialog.git#1.1.0
+bower paper-icon-button#^1.0.0                     download https://github.com/PolymerElements/paper-icon-button/archive/v1.1.6.tar.gz
+bower paper-drawer-panel#^1.0.0                     extract archive.tar.gz
+bower paper-header-panel#^1.0.0                    download https://github.com/PolymerElements/paper-header-panel/archive/v1.1.7.tar.gz
+bower paper-item#^1.0.0                            download https://github.com/PolymerElements/paper-item/archive/v1.2.2.tar.gz
+bower paper-dialog-scrollable#^1.0.0                extract archive.tar.gz
+bower paper-drawer-panel#^1.0.0                    resolved https://github.com/PolymerElements/paper-drawer-panel.git#1.0.11
+bower paper-input#^1.0.0                           download https://github.com/PolymerElements/paper-input/archive/v1.2.1.tar.gz
+bower paper-fab#^1.0.0                              extract archive.tar.gz
+bower paper-dialog-scrollable#^1.0.0               resolved https://github.com/PolymerElements/paper-dialog-scrollable.git#1.1.5
+bower paper-fab#^1.0.0                             resolved https://github.com/PolymerElements/paper-fab.git#1.2.2
+bower paper-listbox#^1.0.0                         download https://github.com/polymerelements/paper-listbox/archive/v1.1.3.tar.gz
+bower paper-dropdown-menu#^1.0.0                    extract archive.tar.gz
+bower paper-dropdown-menu#^1.0.0                   resolved https://github.com/PolymerElements/paper-dropdown-menu.git#1.5.1
+bower paper-icon-button#^1.0.0                      extract archive.tar.gz
+bower paper-icon-button#^1.0.0                 invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\1fd9eb93684502581598b0c2893ff88f-10796-TZkojH\bower.json
+bower paper-icon-button#^1.0.0                 invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["paper-icon-button.html","paper-icon-button-light.html"]
+bower paper-icon-button#^1.0.0                     resolved https://github.com/PolymerElements/paper-icon-button.git#1.1.6
+bower paper-header-panel#^1.0.0                     extract archive.tar.gz
+bower paper-header-panel#^1.0.0                    resolved https://github.com/PolymerElements/paper-header-panel.git#1.1.7
+bower paper-material#^1.0.0                        download https://github.com/PolymerElements/paper-material/archive/v1.0.7.tar.gz
+bower paper-item#^1.0.0                             extract archive.tar.gz
+bower paper-item#^1.0.0                        invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\61ae04c910cc77fdacea78d9cefc90aa-10796-VCA1gQ\bower.json
+bower paper-item#^1.0.0                        invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["paper-item.html","paper-icon-item.html","paper-item-body.html"]
+bower paper-item#^1.0.0                            resolved https://github.com/PolymerElements/paper-item.git#1.2.2
+bower paper-menu#^1.0.0                            download https://github.com/PolymerElements/paper-menu/archive/v1.3.0.tar.gz
+bower paper-listbox#^1.0.0                          extract archive.tar.gz
+bower paper-progress#^1.0.0                        download https://github.com/PolymerElements/paper-progress/archive/v1.0.12.tar.gz
+bower paper-listbox#^1.0.0                         resolved https://github.com/polymerelements/paper-listbox.git#1.1.3
+bower paper-menu-button#^1.0.0                     download https://github.com/PolymerElements/paper-menu-button/archive/v1.5.2.tar.gz
+bower paper-input#^1.0.0                            extract archive.tar.gz
+bower paper-radio-button#^1.0.0                    download https://github.com/PolymerElements/paper-radio-button/archive/v1.4.0.tar.gz
+bower paper-input#^1.0.0                       invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\ca42f9e11ffcee590e78a9733278a7ae-10796-UWFLsB\bower.json
+bower paper-input#^1.0.0                       invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["paper-input.html","paper-textarea.html","paper-input-behavior.html","paper-input-container.html","paper-input-error.html","paper-input-addon-behavior.html","paper-input-char-counter.html"]
+bower paper-input#^1.0.0                           resolved https://github.com/PolymerElements/paper-input.git#1.2.1
+bower paper-material#^1.0.0                         extract archive.tar.gz
+bower paper-material#^1.0.0                        resolved https://github.com/PolymerElements/paper-material.git#1.0.7
+bower paper-progress#^1.0.0                         extract archive.tar.gz
+bower paper-progress#^1.0.0                        resolved https://github.com/PolymerElements/paper-progress.git#1.0.12
+bower paper-ripple#^1.0.0                          download https://github.com/PolymerElements/paper-ripple/archive/v1.0.10.tar.gz
+bower paper-radio-group#^1.0.0                     download https://github.com/PolymerElements/paper-radio-group/archive/v1.2.2.tar.gz
+bower paper-scroll-header-panel#^1.0.0             download https://github.com/PolymerElements/paper-scroll-header-panel/archive/v1.0.16.tar.gz
+bower paper-radio-button#^1.0.0                     extract archive.tar.gz
+bower paper-radio-button#^1.0.0                    resolved https://github.com/PolymerElements/paper-radio-button.git#1.4.0
+bower paper-slider#^1.0.0                          download https://github.com/PolymerElements/paper-slider/archive/v1.0.15.tar.gz
+bower paper-menu-button#^1.0.0                      extract archive.tar.gz
+bower paper-spinner#^1.0.0                         download https://github.com/PolymerElements/paper-spinner/archive/v1.2.1.tar.gz
+bower paper-menu-button#^1.0.0                     resolved https://github.com/PolymerElements/paper-menu-button.git#1.5.2
+bower paper-menu#^1.0.0                             extract archive.tar.gz
+bower paper-menu#^1.0.0                        invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\d581e5af670856944e3a01b3a84ab15b-10796-84Hian\bower.json
+bower paper-menu#^1.0.0                        invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["paper-menu.html","paper-submenu.html"]
+bower paper-menu#^1.0.0                            resolved https://github.com/PolymerElements/paper-menu.git#1.3.0
+bower paper-radio-group#^1.0.0                      extract archive.tar.gz
+bower paper-radio-group#^1.0.0                     resolved https://github.com/PolymerElements/paper-radio-group.git#1.2.2
+bower paper-ripple#^1.0.0                           extract archive.tar.gz
+bower paper-styles#^1.0.0                          download https://github.com/PolymerElements/paper-styles/archive/v1.3.1.tar.gz
+bower paper-ripple#^1.0.0                          mismatch Version declared in the json (1.0.9) is different than the resolved one (1.0.10)
+bower paper-ripple#^1.0.0                          resolved https://github.com/PolymerElements/paper-ripple.git#1.0.10
+bower paper-toast#^1.0.0                           download https://github.com/PolymerElements/paper-toast/archive/v1.3.1.tar.gz
+bower paper-tabs#^1.0.0                            download https://github.com/PolymerElements/paper-tabs/archive/v1.8.0.tar.gz
+bower paper-spinner#^1.0.0                          extract archive.tar.gz
+bower paper-toggle-button#^1.0.0                   download https://github.com/PolymerElements/paper-toggle-button/archive/v1.3.0.tar.gz
+bower paper-spinner#^1.0.0                     invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\159ecf43eff2dbe0da959c35886f5f72-10796-pu6fcp\bower.json
+bower paper-spinner#^1.0.0                     invalid-meta The "main" field has to contain only 1 file per filetype; found multiple .html files: ["paper-spinner.html","paper-spinner-lite.html"]
+bower paper-spinner#^1.0.0                         mismatch Version declared in the json (1.2.0) is different than the resolved one (1.2.1)
+bower paper-spinner#^1.0.0                         resolved https://github.com/PolymerElements/paper-spinner.git#1.2.1
+bower paper-toolbar#^1.0.0                         download https://github.com/PolymerElements/paper-toolbar/archive/v1.1.7.tar.gz
+bower paper-slider#^1.0.0                           extract archive.tar.gz
+bower paper-slider#^1.0.0                          resolved https://github.com/PolymerElements/paper-slider.git#1.0.15
+bower paper-styles#^1.0.0                           extract archive.tar.gz
+bower paper-styles#^1.0.0                          resolved https://github.com/PolymerElements/paper-styles.git#1.3.1
+bower font-roboto#^1.0.1                         not-cached https://github.com/PolymerElements/font-roboto.git#^1.0.1
+bower font-roboto#^1.0.1                            resolve https://github.com/PolymerElements/font-roboto.git#^1.0.1
+bower paper-toggle-button#^1.0.0                    extract archive.tar.gz
+bower paper-tooltip#^1.0.0                         download https://github.com/PolymerElements/paper-tooltip/archive/v1.1.4.tar.gz
+bower paper-toggle-button#^1.0.0                   resolved https://github.com/PolymerElements/paper-toggle-button.git#1.3.0
+bower paper-tabs#^1.0.0                             extract archive.tar.gz
+bower promise-polyfill#^1.0.0                      download https://github.com/PolymerLabs/promise-polyfill/archive/v1.0.1.tar.gz
+bower paper-toolbar#^1.0.0                          extract archive.tar.gz
+bower paper-tabs#^1.0.0                            resolved https://github.com/PolymerElements/paper-tabs.git#1.8.0
+bower sw-toolbox#^3.1.1                            download https://github.com/GoogleChrome/sw-toolbox/archive/v3.6.1.tar.gz
+bower paper-toolbar#^1.0.0                         resolved https://github.com/PolymerElements/paper-toolbar.git#1.1.7
+bower paper-toast#^1.0.0                            extract archive.tar.gz
+bower paper-toast#^1.0.0                           resolved https://github.com/PolymerElements/paper-toast.git#1.3.1
+bower webcomponentsjs#^0.7.24                      download https://github.com/webcomponents/webcomponentsjs/archive/v0.7.24.tar.gz
+bower mocha#^3.1.2                                 download https://github.com/mochajs/mocha/archive/v3.5.3.tar.gz
+bower paper-card#^1.0.0                            progress received 0.6MB of 1.6MB downloaded, 39%
+bower paper-tooltip#^1.0.0                          extract archive.tar.gz
+bower promise-polyfill#^1.0.0                       extract archive.tar.gz
+bower paper-tooltip#^1.0.0                         resolved https://github.com/PolymerElements/paper-tooltip.git#1.1.4
+bower promise-polyfill#^1.0.0                      resolved https://github.com/PolymerLabs/promise-polyfill.git#1.0.1
+bower chai#^3.2.0                                  download https://github.com/chaijs/chai/archive/3.5.0.tar.gz
+bower paper-scroll-header-panel#^1.0.0              extract archive.tar.gz
+bower paper-scroll-header-panel#^1.0.0             resolved https://github.com/PolymerElements/paper-scroll-header-panel.git#1.0.16
+bower paper-card#^1.0.0                            progress received 0.7MB of 1.6MB downloaded, 47%
+bower sw-toolbox#^3.1.1                             extract archive.tar.gz
+bower test-fixture#^3.0.0                          download https://github.com/PolymerElements/test-fixture/archive/v3.0.0.tar.gz
+bower sw-toolbox#^3.1.1                            resolved https://github.com/GoogleChrome/sw-toolbox.git#3.6.1
+bower prism-element#^1.1.0                         download https://github.com/PolymerElements/prism-element/archive/v1.2.0.tar.gz
+bower paper-card#^1.0.0                            progress received 0.9MB of 1.6MB downloaded, 56%
+bower marked-element#^1.0.0                        download https://github.com/polymerelements/marked-element/archive/v1.4.2.tar.gz
+bower test-fixture#^3.0.0                           extract archive.tar.gz
+bower test-fixture#^3.0.0                          resolved https://github.com/PolymerElements/test-fixture.git#3.0.0
+bower webcomponentsjs#^0.7.24                       extract archive.tar.gz
+bower webcomponentsjs#^0.7.24                      resolved https://github.com/webcomponents/webcomponentsjs.git#0.7.24
+bower chai#^3.2.0                                   extract archive.tar.gz
+bower web-animations-js#^2.2.0                     download https://github.com/web-animations/web-animations-js/archive/2.3.1.tar.gz
+bower font-roboto#^1.0.1                           download https://github.com/PolymerElements/font-roboto/archive/v1.1.0.tar.gz
+bower hydrolysis#^1.18                             download https://github.com/Polymer/hydrolysis/archive/v1.24.1.tar.gz
+bower chai#^3.2.0                                  resolved https://github.com/chaijs/chai.git#3.5.0
+bower paper-card#^1.0.0                            progress received 1.1MB of 1.6MB downloaded, 69%
+bower marked-element#^1.0.0                         extract archive.tar.gz
+bower marked-element#^1.0.0                        resolved https://github.com/polymerelements/marked-element.git#1.4.2
+bower prism-element#^1.1.0                          extract archive.tar.gz
+bower prism-element#^1.1.0                         resolved https://github.com/PolymerElements/prism-element.git#1.2.0
+bower marked#~0.3.3                              not-cached https://github.com/chjj/marked.git#~0.3.3
+bower marked#~0.3.3                                 resolve https://github.com/chjj/marked.git#~0.3.3
+bower font-roboto#^1.0.1                            extract archive.tar.gz
+bower font-roboto#^1.0.1                           mismatch Version declared in the json (1.0.3) is different than the resolved one (1.1.0)
+bower font-roboto#^1.0.1                           resolved https://github.com/PolymerElements/font-roboto.git#1.1.0
+bower paper-card#^1.0.0                            progress received 1.4MB of 1.6MB downloaded, 88%
+bower prism#*                                    not-cached https://github.com/LeaVerou/prism.git#*
+bower prism#*                                       resolve https://github.com/LeaVerou/prism.git#*
+bower paper-card#^1.0.0                             extract archive.tar.gz
+bower paper-card#^1.0.0                            resolved https://github.com/PolymerElements/paper-card.git#1.1.6
+bower mocha#^3.1.2                                  extract archive.tar.gz
+bower marked#~0.3.3                                download https://github.com/chjj/marked/archive/v0.3.19.tar.gz
+bower mocha#^3.1.2                                 resolved https://github.com/mochajs/mocha.git#3.5.3
+bower prism#*                                      download https://github.com/LeaVerou/prism/archive/v1.14.0.tar.gz
+bower web-animations-js#^2.2.0                      extract archive.tar.gz
+bower web-animations-js#^2.2.0                 invalid-meta for:C:\Users\Gianni\AppData\Local\Temp\GBQQ-Gianni\bower\87d0027fe1bf217ed9e5fc662c53df96-10796-Plm455\bower.json
+bower web-animations-js#^2.2.0                 invalid-meta The "main" field cannot contain minified files
+bower web-animations-js#^2.2.0                     resolved https://github.com/web-animations/web-animations-js.git#2.3.1
+bower marked#~0.3.3                                 extract archive.tar.gz
+bower marked#~0.3.3                                resolved https://github.com/chjj/marked.git#0.3.19
+bower hydrolysis#^1.18                             progress received 1.0MB of 1.1MB downloaded, 96%
+bower hydrolysis#^1.18                              extract archive.tar.gz
+bower hydrolysis#^1.18                             resolved https://github.com/Polymer/hydrolysis.git#1.24.1
+bower prism#*                                      progress received 0.7MB of 1.1MB downloaded, 68%
+bower prism#*                                      progress received 0.8MB of 1.1MB downloaded, 77%
+bower prism#*                                      progress received 0.9MB of 1.1MB downloaded, 85%
+bower prism#*                                      progress received 1.0MB of 1.1MB downloaded, 95%
+bower prism#*                                       extract archive.tar.gz
+bower prism#*                                      resolved https://github.com/LeaVerou/prism.git#1.14.0
+
+Unable to find a suitable version for test-fixture, please choose one by typing one of the numbers below:
+    1) test-fixture#^1.0.0 which resolved to 1.1.2 and is required by polymer-starter-kit
+    2) test-fixture#^3.0.0 which resolved to 3.0.0 and is required by web-component-tester#6.5.0
+
+Prefix the choice with ! to persist it to bower.json
+
+? Answer 1
+bower platinum-elements#^1.1.0                      install platinum-elements#1.2.0
+bower iron-elements#^1.0.0                          install iron-elements#1.0.10
+bower neon-elements#^1.0.0                          install neon-elements#1.0.0
+bower paper-elements#^1.0.1                         install paper-elements#1.0.7
+bower test-fixture#^1.0.0                           install test-fixture#1.1.2
+bower polymer#^1.1.0                                install polymer#1.11.3
+bower page#~1.6.3                                   install page#1.6.4
+bower platinum-https-redirect#^1.0.0                install platinum-https-redirect#1.0.2
+bower iron-a11y-keys#^1.0.0                         install iron-a11y-keys#1.0.9
+bower platinum-sw#^1.2.0                            install platinum-sw#1.3.0
+bower platinum-push-messaging#^1.0.0                install platinum-push-messaging#1.0.5
+bower platinum-bluetooth#^1.0.0                     install platinum-bluetooth#1.0.0
+bower web-component-tester#*                        install web-component-tester#6.5.0
+bower iron-a11y-announcer#^1.0.0                    install iron-a11y-announcer#1.0.6
+bower iron-a11y-keys-behavior#^1.0.0                install iron-a11y-keys-behavior#1.1.9
+bower iron-ajax#^1.0.0                              install iron-ajax#1.4.4
+bower iron-behaviors#^1.0.0                         install iron-behaviors#1.0.18
+bower iron-autogrow-textarea#^1.0.0                 install iron-autogrow-textarea#1.0.15
+bower iron-checked-element-behavior#^1.0.0          install iron-checked-element-behavior#1.0.6
+bower iron-collapse#^1.0.0                          install iron-collapse#1.3.0
+bower iron-demo-helpers#^1.0.0                      install iron-demo-helpers#1.2.6
+bower iron-doc-viewer#^1.0.0                        install iron-doc-viewer#1.1.0
+bower iron-component-page#^1.0.0                    install iron-component-page#1.1.9
+bower iron-fit-behavior#^1.0.0                      install iron-fit-behavior#1.2.7
+bower iron-dropdown#^1.0.0                          install iron-dropdown#1.5.6
+bower iron-form-element-behavior#^1.0.0             install iron-form-element-behavior#1.0.7
+bower iron-flex-layout#^1.0.0                       install iron-flex-layout#1.3.9
+bower iron-form#^1.0.0                              install iron-form#1.1.6
+bower iron-icon#^1.0.0                              install iron-icon#1.0.13
+bower iron-iconset-svg#^1.0.0                       install iron-iconset-svg#1.1.2
+bower iron-iconset#^1.0.0                           install iron-iconset#1.0.6
+bower iron-image#^1.0.0                             install iron-image#1.2.6
+bower iron-jsonp-library#^1.0.0                     install iron-jsonp-library#1.0.5
+bower iron-icons#^1.0.0                             install iron-icons#1.2.1
+bower iron-localstorage#^1.0.0                      install iron-localstorage#1.0.6
+bower iron-media-query#^1.0.0                       install iron-media-query#1.0.8
+bower iron-location#^0.8.0                          install iron-location#0.8.11
+bower iron-input#^1.0.0                             install iron-input#1.0.11
+bower iron-menu-behavior#^1.0.0                     install iron-menu-behavior#1.3.1
+bower iron-label#^1.0.0                             install iron-label#1.0.2
+bower iron-meta#^1.0.0                              install iron-meta#1.1.3
+bower iron-pages#^1.0.0                             install iron-pages#1.0.9
+bower iron-overlay-behavior#^1.0.0                  install iron-overlay-behavior#1.10.4
+bower iron-selector#^1.0.0                          install iron-selector#1.5.3
+bower iron-resizable-behavior#^1.0.0                install iron-resizable-behavior#1.0.6
+bower iron-swipeable-container#^1.0.0               install iron-swipeable-container#1.0.3
+bower iron-scroll-threshold#^1.0.0                  install iron-scroll-threshold#1.0.3
+bower iron-scroll-target-behavior#^1.0.0            install iron-scroll-target-behavior#1.1.1
+bower iron-signals#^1.0.0                           install iron-signals#1.0.3
+bower iron-list#^1.0.0                              install iron-list#1.4.6
+bower paper-badge#^1.0.0                            install paper-badge#1.1.4
+bower iron-range-behavior#^1.0.0                    install iron-range-behavior#1.0.7
+bower iron-validatable-behavior#^1.0.0              install iron-validatable-behavior#1.1.2
+bower iron-validator-behavior#^1.0.0                install iron-validator-behavior#1.0.2
+bower iron-test-helpers#^1.0.0                      install iron-test-helpers#1.4.1
+bower neon-animation#^1.0.0                         install neon-animation#1.2.5
+bower paper-behaviors#^1.0.0                        install paper-behaviors#1.0.13
+bower paper-button#^1.0.0                           install paper-button#1.0.15
+bower paper-dialog-behavior#^1.0.0                  install paper-dialog-behavior#1.2.9
+bower paper-checkbox#^1.0.0                         install paper-checkbox#1.4.2
+bower paper-dialog#^1.0.0                           install paper-dialog#1.1.0
+bower paper-drawer-panel#^1.0.0                     install paper-drawer-panel#1.0.11
+bower paper-dialog-scrollable#^1.0.0                install paper-dialog-scrollable#1.1.5
+bower paper-fab#^1.0.0                              install paper-fab#1.2.2
+bower paper-dropdown-menu#^1.0.0                    install paper-dropdown-menu#1.5.1
+bower paper-icon-button#^1.0.0                      install paper-icon-button#1.1.6
+bower paper-header-panel#^1.0.0                     install paper-header-panel#1.1.7
+bower paper-item#^1.0.0                             install paper-item#1.2.2
+bower paper-listbox#^1.0.0                          install paper-listbox#1.1.3
+bower paper-input#^1.0.0                            install paper-input#1.2.1
+bower paper-material#^1.0.0                         install paper-material#1.0.7
+bower paper-progress#^1.0.0                         install paper-progress#1.0.12
+bower paper-radio-button#^1.0.0                     install paper-radio-button#1.4.0
+bower paper-menu-button#^1.0.0                      install paper-menu-button#1.5.2
+bower paper-menu#^1.0.0                             install paper-menu#1.3.0
+bower paper-radio-group#^1.0.0                      install paper-radio-group#1.2.2
+bower paper-ripple#^1.0.0                           install paper-ripple#1.0.10
+bower paper-spinner#^1.0.0                          install paper-spinner#1.2.1
+bower paper-slider#^1.0.0                           install paper-slider#1.0.15
+bower paper-styles#^1.0.0                           install paper-styles#1.3.1
+bower paper-toggle-button#^1.0.0                    install paper-toggle-button#1.3.0
+bower paper-tabs#^1.0.0                             install paper-tabs#1.8.0
+bower paper-toolbar#^1.0.0                          install paper-toolbar#1.1.7
+bower paper-toast#^1.0.0                            install paper-toast#1.3.1
+bower sinonjs#^1.14.1                               install sinonjs#1.17.1
+bower paper-tooltip#^1.0.0                          install paper-tooltip#1.1.4
+bower promise-polyfill#^1.0.0                       install promise-polyfill#1.0.1
+bower async#^1.5.0                                  install async#1.5.2
+bower lodash#^3.7.0                                 install lodash#3.10.1
+bower paper-scroll-header-panel#^1.0.0              install paper-scroll-header-panel#1.0.16
+bower stacky#^1.3.0                                 install stacky#1.3.2
+bower accessibility-developer-tools#^2.10.0         install accessibility-developer-tools#2.12.0
+bower sw-toolbox#^3.1.1                             install sw-toolbox#3.6.1
+bower sinon-chai#^2.7.0                             install sinon-chai#2.14.0
+bower webcomponentsjs#^0.7.24                       install webcomponentsjs#0.7.24
+bower chai#^3.2.0                                   install chai#3.5.0
+bower marked-element#^1.0.0                         install marked-element#1.4.2
+bower prism-element#^1.1.0                          install prism-element#1.2.0
+bower font-roboto#^1.0.1                            install font-roboto#1.1.0
+bower paper-card#^1.0.0                             install paper-card#1.1.6
+bower mocha#^3.1.2                                  install mocha#3.5.3
+bower web-animations-js#^2.2.0                      install web-animations-js#2.3.1
+bower marked#~0.3.3                                 install marked#0.3.19
+bower hydrolysis#^1.18                              install hydrolysis#1.24.1
+bower prism#*                                       install prism#1.14.0
+
+platinum-elements#1.2.0 bower_components\platinum-elements
+├── platinum-bluetooth#1.0.0
+├── platinum-https-redirect#1.0.2
+├── platinum-push-messaging#1.0.5
+└── platinum-sw#1.3.0
+
+iron-elements#1.0.10 bower_components\iron-elements
+├── iron-a11y-announcer#1.0.6
+├── iron-a11y-keys#1.0.9
+├── iron-a11y-keys-behavior#1.1.9
+├── iron-ajax#1.4.4
+├── iron-autogrow-textarea#1.0.15
+├── iron-behaviors#1.0.18
+├── iron-checked-element-behavior#1.0.6
+├── iron-collapse#1.3.0
+├── iron-component-page#1.1.9
+├── iron-demo-helpers#1.2.6
+├── iron-doc-viewer#1.1.0
+├── iron-dropdown#1.5.6
+├── iron-fit-behavior#1.2.7
+├── iron-flex-layout#1.3.9
+├── iron-form#1.1.6
+├── iron-form-element-behavior#1.0.7
+├── iron-icon#1.0.13
+├── iron-icons#1.2.1
+├── iron-iconset#1.0.6
+├── iron-iconset-svg#1.1.2
+├── iron-image#1.2.6
+├── iron-input#1.0.11
+├── iron-jsonp-library#1.0.5
+├── iron-label#1.0.2
+├── iron-list#1.4.6
+├── iron-localstorage#1.0.6
+├── iron-location#0.8.11
+├── iron-media-query#1.0.8
+├── iron-menu-behavior#1.3.1
+├── iron-meta#1.1.3
+├── iron-overlay-behavior#1.10.4
+├── iron-pages#1.0.9
+├── iron-range-behavior#1.0.7
+├── iron-resizable-behavior#1.0.6
+├── iron-scroll-target-behavior#1.1.1
+├── iron-scroll-threshold#1.0.3
+├── iron-selector#1.5.3
+├── iron-signals#1.0.3
+├── iron-swipeable-container#1.0.3
+├── iron-test-helpers#1.4.1
+├── iron-validatable-behavior#1.1.2
+└── iron-validator-behavior#1.0.2
+
+neon-elements#1.0.0 bower_components\neon-elements
+└── neon-animation#1.2.5
+
+paper-elements#1.0.7 bower_components\paper-elements
+├── paper-badge#1.1.4
+├── paper-behaviors#1.0.13
+├── paper-button#1.0.15
+├── paper-card#1.1.6
+├── paper-checkbox#1.4.2
+├── paper-dialog#1.1.0
+├── paper-dialog-behavior#1.2.9
+├── paper-dialog-scrollable#1.1.5
+├── paper-drawer-panel#1.0.11
+├── paper-dropdown-menu#1.5.1
+├── paper-fab#1.2.2
+├── paper-header-panel#1.1.7
+├── paper-icon-button#1.1.6
+├── paper-input#1.2.1
+├── paper-item#1.2.2
+├── paper-listbox#1.1.3
+├── paper-material#1.0.7
+├── paper-menu#1.3.0
+├── paper-menu-button#1.5.2
+├── paper-progress#1.0.12
+├── paper-radio-button#1.4.0
+├── paper-radio-group#1.2.2
+├── paper-ripple#1.0.10
+├── paper-scroll-header-panel#1.0.16
+├── paper-slider#1.0.15
+├── paper-spinner#1.2.1
+├── paper-styles#1.3.1
+├── paper-tabs#1.8.0
+├── paper-toast#1.3.1
+├── paper-toggle-button#1.3.0
+├── paper-toolbar#1.1.7
+└── paper-tooltip#1.1.4
+
+test-fixture#1.1.2 bower_components\test-fixture
+
+polymer#1.11.3 bower_components\polymer
+└── webcomponentsjs#0.7.24
+
+page#1.6.4 bower_components\page
+
+platinum-https-redirect#1.0.2 bower_components\platinum-https-redirect
+└── polymer#1.11.3
+
+iron-a11y-keys#1.0.9 bower_components\iron-a11y-keys
+├── iron-a11y-keys-behavior#1.1.9
+└── polymer#1.11.3
+
+platinum-sw#1.3.0 bower_components\platinum-sw
+├── polymer#1.11.3
+└── sw-toolbox#3.6.1
+
+platinum-push-messaging#1.0.5 bower_components\platinum-push-messaging
+├── polymer#1.11.3
+└── promise-polyfill#1.0.1
+
+platinum-bluetooth#1.0.0 bower_components\platinum-bluetooth
+├── polymer#1.11.3
+└── promise-polyfill#1.0.1
+
+web-component-tester#6.5.0 bower_components\web-component-tester
+├── accessibility-developer-tools#2.12.0
+├── async#1.5.2
+├── chai#3.5.0
+├── lodash#3.10.1
+├── mocha#3.5.3
+├── sinon-chai#2.14.0
+├── sinonjs#1.17.1
+├── stacky#1.3.2
+└── test-fixture#1.1.2
+
+iron-a11y-announcer#1.0.6 bower_components\iron-a11y-announcer
+└── polymer#1.11.3
+
+iron-a11y-keys-behavior#1.1.9 bower_components\iron-a11y-keys-behavior
+└── polymer#1.11.3
+
+iron-ajax#1.4.4 bower_components\iron-ajax
+├── polymer#1.11.3
+└── promise-polyfill#1.0.1
+
+iron-behaviors#1.0.18 bower_components\iron-behaviors
+├── iron-a11y-keys-behavior#1.1.9
+└── polymer#1.11.3
+
+iron-autogrow-textarea#1.0.15 bower_components\iron-autogrow-textarea
+├── iron-behaviors#1.0.18
+├── iron-flex-layout#1.3.9
+├── iron-form-element-behavior#1.0.7
+├── iron-validatable-behavior#1.1.2
+└── polymer#1.11.3
+
+iron-checked-element-behavior#1.0.6 bower_components\iron-checked-element-behavior
+├── iron-form-element-behavior#1.0.7
+├── iron-validatable-behavior#1.1.2
+└── polymer#1.11.3
+
+iron-collapse#1.3.0 bower_components\iron-collapse
+├── iron-resizable-behavior#1.0.6
+└── polymer#1.11.3
+
+iron-demo-helpers#1.2.6 bower_components\iron-demo-helpers
+├── iron-flex-layout#1.3.9
+├── iron-icons#1.2.1
+├── iron-location#0.8.11
+├── marked-element#1.4.2
+├── paper-icon-button#1.1.6
+├── paper-styles#1.3.1
+├── polymer#1.11.3
+└── prism-element#1.2.0
+
+iron-doc-viewer#1.1.0 bower_components\iron-doc-viewer
+├── marked-element#1.4.2
+├── paper-button#1.0.15
+├── paper-styles#1.3.1
+├── polymer#1.11.3
+└── prism-element#1.2.0
+
+iron-component-page#1.1.9 bower_components\iron-component-page
+├── hydrolysis#1.24.1
+├── iron-ajax#1.4.4
+├── iron-doc-viewer#1.1.0
+├── iron-flex-layout#1.3.9
+├── iron-icons#1.2.1
+├── iron-selector#1.5.3
+├── paper-header-panel#1.1.7
+├── paper-styles#1.3.1
+├── paper-toolbar#1.1.7
+└── polymer#1.11.3
+
+iron-fit-behavior#1.2.7 bower_components\iron-fit-behavior
+└── polymer#1.11.3
+
+iron-dropdown#1.5.6 bower_components\iron-dropdown
+├── iron-behaviors#1.0.18
+├── iron-overlay-behavior#1.10.4
+├── iron-resizable-behavior#1.0.6
+├── neon-animation#1.2.5
+└── polymer#1.11.3
+
+iron-form-element-behavior#1.0.7 bower_components\iron-form-element-behavior
+└── polymer#1.11.3
+
+iron-flex-layout#1.3.9 bower_components\iron-flex-layout
+└── polymer#1.11.3
+
+iron-form#1.1.6 bower_components\iron-form
+├── iron-ajax#1.4.4
+└── polymer#1.11.3
+
+iron-icon#1.0.13 bower_components\iron-icon
+├── iron-flex-layout#1.3.9
+├── iron-meta#1.1.3
+└── polymer#1.11.3
+
+iron-iconset-svg#1.1.2 bower_components\iron-iconset-svg
+├── iron-meta#1.1.3
+└── polymer#1.11.3
+
+iron-iconset#1.0.6 bower_components\iron-iconset
+├── iron-meta#1.1.3
+└── polymer#1.11.3
+
+iron-image#1.2.6 bower_components\iron-image
+├── iron-flex-layout#1.3.9
+└── polymer#1.11.3
+
+iron-jsonp-library#1.0.5 bower_components\iron-jsonp-library
+└── polymer#1.11.3
+
+iron-icons#1.2.1 bower_components\iron-icons
+├── iron-icon#1.0.13
+├── iron-iconset-svg#1.1.2
+└── polymer#1.11.3
+
+iron-localstorage#1.0.6 bower_components\iron-localstorage
+└── polymer#1.11.3
+
+iron-media-query#1.0.8 bower_components\iron-media-query
+└── polymer#1.11.3
+
+iron-location#0.8.11 bower_components\iron-location
+└── polymer#1.11.3
+
+iron-input#1.0.11 bower_components\iron-input
+├── iron-a11y-announcer#1.0.6
+├── iron-validatable-behavior#1.1.2
+└── polymer#1.11.3
+
+iron-menu-behavior#1.3.1 bower_components\iron-menu-behavior
+├── iron-a11y-keys-behavior#1.1.9
+├── iron-selector#1.5.3
+└── polymer#1.11.3
+
+iron-label#1.0.2 bower_components\iron-label
+└── polymer#1.11.3
+
+iron-meta#1.1.3 bower_components\iron-meta
+└── polymer#1.11.3
+
+iron-pages#1.0.9 bower_components\iron-pages
+├── iron-resizable-behavior#1.0.6
+├── iron-selector#1.5.3
+└── polymer#1.11.3
+
+iron-overlay-behavior#1.10.4 bower_components\iron-overlay-behavior
+├── iron-a11y-keys-behavior#1.1.9
+├── iron-fit-behavior#1.2.7
+├── iron-resizable-behavior#1.0.6
+└── polymer#1.11.3
+
+iron-selector#1.5.3 bower_components\iron-selector
+└── polymer#1.11.3
+
+iron-resizable-behavior#1.0.6 bower_components\iron-resizable-behavior
+└── polymer#1.11.3
+
+iron-swipeable-container#1.0.3 bower_components\iron-swipeable-container
+└── polymer#1.11.3
+
+iron-scroll-threshold#1.0.3 bower_components\iron-scroll-threshold
+├── iron-scroll-target-behavior#1.1.1
+└── polymer#1.11.3
+
+iron-scroll-target-behavior#1.1.1 bower_components\iron-scroll-target-behavior
+└── polymer#1.11.3
+
+iron-signals#1.0.3 bower_components\iron-signals
+└── polymer#1.11.3
+
+iron-list#1.4.6 bower_components\iron-list
+├── iron-a11y-keys-behavior#1.1.9
+├── iron-resizable-behavior#1.0.6
+├── iron-scroll-target-behavior#1.1.1
+└── polymer#1.11.3
+
+paper-badge#1.1.4 bower_components\paper-badge
+├── iron-flex-layout#1.3.9
+├── iron-icon#1.0.13
+├── iron-resizable-behavior#1.0.6
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+iron-range-behavior#1.0.7 bower_components\iron-range-behavior
+└── polymer#1.11.3
+
+iron-validatable-behavior#1.1.2 bower_components\iron-validatable-behavior
+├── iron-meta#1.1.3
+└── polymer#1.11.3
+
+iron-validator-behavior#1.0.2 bower_components\iron-validator-behavior
+├── iron-meta#1.1.3
+└── polymer#1.11.3
+
+iron-test-helpers#1.4.1 bower_components\iron-test-helpers
+└── polymer#1.11.3
+
+neon-animation#1.2.5 bower_components\neon-animation
+├── iron-meta#1.1.3
+├── iron-resizable-behavior#1.0.6
+├── iron-selector#1.5.3
+├── polymer#1.11.3
+└── web-animations-js#2.3.1
+
+paper-behaviors#1.0.13 bower_components\paper-behaviors
+├── iron-behaviors#1.0.18
+├── iron-checked-element-behavior#1.0.6
+├── paper-ripple#1.0.10
+└── polymer#1.11.3
+
+paper-button#1.0.15 bower_components\paper-button
+├── iron-flex-layout#1.3.9
+├── paper-behaviors#1.0.13
+├── paper-material#1.0.7
+└── polymer#1.11.3
+
+paper-dialog-behavior#1.2.9 bower_components\paper-dialog-behavior
+├── iron-overlay-behavior#1.10.4
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-checkbox#1.4.2 bower_components\paper-checkbox
+├── iron-checked-element-behavior#1.0.6
+├── paper-behaviors#1.0.13
+├── paper-ripple#1.0.10
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-dialog#1.1.0 bower_components\paper-dialog
+├── iron-overlay-behavior#1.10.4
+├── neon-animation#1.2.5
+├── paper-dialog-behavior#1.2.9
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-drawer-panel#1.0.11 bower_components\paper-drawer-panel
+├── iron-media-query#1.0.8
+├── iron-resizable-behavior#1.0.6
+├── iron-selector#1.5.3
+└── polymer#1.11.3
+
+paper-dialog-scrollable#1.1.5 bower_components\paper-dialog-scrollable
+├── iron-flex-layout#1.3.9
+├── paper-dialog-behavior#1.2.9
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-fab#1.2.2 bower_components\paper-fab
+├── iron-flex-layout#1.3.9
+├── iron-icon#1.0.13
+├── paper-behaviors#1.0.13
+├── paper-material#1.0.7
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-dropdown-menu#1.5.1 bower_components\paper-dropdown-menu
+├── iron-a11y-keys-behavior#1.1.9
+├── iron-form-element-behavior#1.0.7
+├── iron-icon#1.0.13
+├── iron-iconset-svg#1.1.2
+├── iron-validatable-behavior#1.1.2
+├── paper-behaviors#1.0.13
+├── paper-input#1.2.1
+├── paper-menu-button#1.5.2
+├── paper-ripple#1.0.10
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-icon-button#1.1.6 bower_components\paper-icon-button
+├── iron-icon#1.0.13
+├── paper-behaviors#1.0.13
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-header-panel#1.1.7 bower_components\paper-header-panel
+├── iron-flex-layout#1.3.9
+└── polymer#1.11.3
+
+paper-item#1.2.2 bower_components\paper-item
+├── iron-behaviors#1.0.18
+├── iron-flex-layout#1.3.9
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-listbox#1.1.3 bower_components\paper-listbox
+├── iron-behaviors#1.0.18
+├── iron-collapse#1.3.0
+├── iron-menu-behavior#1.3.1
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-input#1.2.1 bower_components\paper-input
+├── iron-a11y-keys-behavior#1.1.9
+├── iron-autogrow-textarea#1.0.15
+├── iron-behaviors#1.0.18
+├── iron-form-element-behavior#1.0.7
+├── iron-input#1.0.11
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-material#1.0.7 bower_components\paper-material
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-progress#1.0.12 bower_components\paper-progress
+├── iron-flex-layout#1.3.9
+├── iron-range-behavior#1.0.7
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-radio-button#1.4.0 bower_components\paper-radio-button
+├── iron-checked-element-behavior#1.0.6
+├── iron-flex-layout#1.3.9
+├── paper-behaviors#1.0.13
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-menu-button#1.5.2 bower_components\paper-menu-button
+├── iron-a11y-keys-behavior#1.1.9
+├── iron-behaviors#1.0.18
+├── iron-dropdown#1.5.6
+├── iron-fit-behavior#1.2.7
+├── neon-animation#1.2.5
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-menu#1.3.0 bower_components\paper-menu
+├── iron-behaviors#1.0.18
+├── iron-collapse#1.3.0
+├── iron-flex-layout#1.3.9
+├── iron-menu-behavior#1.3.1
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-radio-group#1.2.2 bower_components\paper-radio-group
+├── iron-a11y-keys-behavior#1.1.9
+├── iron-menu-behavior#1.3.1
+├── paper-radio-button#1.4.0
+└── polymer#1.11.3
+
+paper-ripple#1.0.10 bower_components\paper-ripple
+├── iron-a11y-keys-behavior#1.1.9
+└── polymer#1.11.3
+
+paper-spinner#1.2.1 bower_components\paper-spinner
+├── iron-flex-layout#1.3.9
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-slider#1.0.15 bower_components\paper-slider
+├── iron-a11y-keys-behavior#1.1.9
+├── iron-behaviors#1.0.18
+├── iron-flex-layout#1.3.9
+├── iron-form-element-behavior#1.0.7
+├── paper-behaviors#1.0.13
+├── paper-input#1.2.1
+├── paper-progress#1.0.12
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-styles#1.3.1 bower_components\paper-styles
+├── font-roboto#1.1.0
+├── iron-flex-layout#1.3.9
+└── polymer#1.11.3
+
+paper-toggle-button#1.3.0 bower_components\paper-toggle-button
+├── iron-checked-element-behavior#1.0.6
+├── paper-behaviors#1.0.13
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-tabs#1.8.0 bower_components\paper-tabs
+├── iron-behaviors#1.0.18
+├── iron-flex-layout#1.3.9
+├── iron-icon#1.0.13
+├── iron-iconset-svg#1.1.2
+├── iron-menu-behavior#1.3.1
+├── iron-resizable-behavior#1.0.6
+├── paper-behaviors#1.0.13
+├── paper-icon-button#1.1.6
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-toolbar#1.1.7 bower_components\paper-toolbar
+├── iron-flex-layout#1.3.9
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+paper-toast#1.3.1 bower_components\paper-toast
+├── iron-a11y-announcer#1.0.6
+├── iron-fit-behavior#1.2.7
+├── iron-overlay-behavior#1.10.4
+└── polymer#1.11.3
+
+sinonjs#1.17.1 bower_components\sinonjs
+
+paper-tooltip#1.1.4 bower_components\paper-tooltip
+├── neon-animation#1.2.5
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+promise-polyfill#1.0.1 bower_components\promise-polyfill
+└── polymer#1.11.3
+
+async#1.5.2 bower_components\async
+
+lodash#3.10.1 bower_components\lodash
+
+paper-scroll-header-panel#1.0.16 bower_components\paper-scroll-header-panel
+├── iron-resizable-behavior#1.0.6
+└── polymer#1.11.3
+
+stacky#1.3.2 bower_components\stacky
+
+accessibility-developer-tools#2.12.0 bower_components\accessibility-developer-tools
+
+sw-toolbox#3.6.1 bower_components\sw-toolbox
+
+sinon-chai#2.14.0 bower_components\sinon-chai
+
+webcomponentsjs#0.7.24 bower_components\webcomponentsjs
+
+chai#3.5.0 bower_components\chai
+
+marked-element#1.4.2 bower_components\marked-element
+├── marked#0.3.19
+└── polymer#1.11.3
+
+prism-element#1.2.0 bower_components\prism-element
+├── polymer#1.11.3
+└── prism#1.14.0
+
+font-roboto#1.1.0 bower_components\font-roboto
+
+paper-card#1.1.6 bower_components\paper-card
+├── iron-flex-layout#1.3.9
+├── iron-image#1.2.6
+├── paper-material#1.0.7
+├── paper-styles#1.3.1
+└── polymer#1.11.3
+
+mocha#3.5.3 bower_components\mocha
+
+web-animations-js#2.3.1 bower_components\web-animations-js
+
+marked#0.3.19 bower_components\marked
+
+hydrolysis#1.24.1 bower_components\hydrolysis
+
+prism#1.14.0 bower_components\prism
+
+Gianni@GBQQ MINGW64 /d/works/nanodegree/exoplanet/exoplanet-explorer (xhr-start)
+$
