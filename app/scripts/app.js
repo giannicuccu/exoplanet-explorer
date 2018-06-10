@@ -64,6 +64,24 @@ Instructions:
 
     Your code goes here!
      */
-    // getJSON('../data/earth-like-results.json')
+     getJSON('../data/earth-like-results.json')
+     .then(function(response,reject){
+       return getJSON(response.results[0]);
+        return response.json()
+     })
+     .catch(
+       function(reject){
+         throw Error('unable ti get')
+       }
+     )
+     .then(function(response,reject){
+        createPlanetThumb(response);
+     })
+     .catch(
+       function(reject){
+        addSearchHeader('unknown');
+        console.log(reject);
+       }
+     )
   });
 })(document);
